@@ -35,7 +35,7 @@ CarCompare AI is a real-time, AI-driven car price comparison platform built with
 | Database    | MongoDB |
 | Scraping    | Puppeteer, Cheerio, Playwright (modular strategy-based) |
 | AI Layer    | Custom logic for price prediction, scoring & confidence |
-| Deployment  | Docker, PM2, NGINX, DigitalOcean/VPS |
+
 
 ---
 
