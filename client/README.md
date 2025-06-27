@@ -30,7 +30,7 @@ CarCompare AI is a real-time, AI-driven car price comparison platform built with
 
 | Layer       | Tech Used |
 |-------------|-----------|
-| Frontend    | React.js, TailwindCSS, Zustand, ShadCN UI |
+| Frontend    | React.js, Lucide, ShadCN UI |
 | Backend     | Node.js, Express.js |
 | Database    | MongoDB |
 | Scraping    | Puppeteer, Cheerio, Playwright (modular strategy-based) |
